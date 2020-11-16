@@ -1,0 +1,572 @@
+{
+    "HOME": {
+        "TITLE": "DIGITALES SERVICEBUCH",
+        "SIGNIN": "Anmelden",
+        "SIGNUP": "eintragen",
+        "LOOKUP": "Suche auf Nummernschild oder Fahrgestellnummer.",
+        "FORGOTPASSWORD": "Passwort vergessen",
+        "OR": "oder",
+        "CREATEACCOUNT": "Hast du kein Konto?",
+        "REG": " Anmelden",
+        "AGREE": "Ich stimme dem zu ",
+        "TERMS": "Geschäftsbedingungen",
+        "SEARCH": {
+            "DIDYOUKNOW": "Wusstest du schon? Sie können auch hinzufügen",
+            "VEHICALS": "Motorrad, Wohnwagen, Boot, Flugzeug oder Fahrrad",
+            "LIC": "Nummernschild",
+            "VIN": "Fahrgestellnummer"
+        },
+        "SIGNINTITLE": "Einloggen",
+        "SIGNUPTITLE": "Registrieren",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Kennzeichen oder Chasennummer",
+            "USERNAME": "Benutzername oder E-Mail",
+            "PASSWORD": "Passwort",
+            "EMAIL": "E-Mail",
+            "MOBILE": "Handynummer"
+        },
+        "BUTTONS": {
+            "FINDCAR": "FINDEN SIE DAS AUTO",
+            "FINDCARTABS": "FINDEN SIE DAS AUTO (TAB)",
+            "SIGNIN": "einloggen",
+            "SIGNINWITHFACEBOOK": "Weiter mit Facebook",
+            "SIGNUP": "Registrieren",
+            "ADDCAR": "Füge ein Auto hinzu"
+        },
+        "SEGMENTS": {
+            "SEARCH": "SUCHE",
+            "SIGNIN": "einloggen",
+            "SIGNUP": "eintragen",
+            "CAR": "Auto",
+            "PROFILE": "Profil"
+
+        },
+        "ALERT": {
+            "REGCHANGE": {
+                "TITLE": "Registrierungsnummer geändert",
+                "MESSAGE": "Die Registriernummer wird in {{value}} geändert. Möchten Sie es suchen?",
+                "NO": "Nein",
+                "YES": "ja"
+            }
+        }
+    },
+    "SERVICEPLAN": {
+        "TITLE": "Servicepläne",
+        "SEGMENTS": {
+            "UPCOMING": "Bevorstehende",
+            "ORDERED": "Bestellt",
+            "COMPLETED": "Abgeschlossen"
+        },
+        "BUTTONS": {
+            "REPORT": "BERICHT",
+            "ORDER": "BESTELLUNG",
+            "CANCELORDER": "ABBRUCHEN"
+        }
+    },
+    "CARLIST": {
+        "TITLE": "Meine Autos",
+        "LOOKS": "Sieht aus, als hättest du kein Auto ...",
+        "UNLESS": "Sofern du sonst nichts anderes sagst",
+        "BUTTONS": {
+            "OFCOURSE": "DER KURS ICH HABE A AUTO!",
+            "ADDCAR": "Fügen Sie das Auto hinzu"
+        },
+        "POPOVER": {
+            "PROFILE": "Mein Profil",
+            "SIGNOUT": "Signout"
+        }
+    },
+    "ADDCAR": {
+        "TITLE": "Auto hinzufügen",
+        "ADDCARBY": "Füge dein Auto hinzu",
+        "CAR": "Auto",
+        "LICENCEPLATE": "Nummernschild",
+        "CHASSISNUMBER": "Fahrgestellnummer",
+        "BRAND": "Marke",
+        "MODEL": "Modell",
+        "TYPE": "Typ",
+        "REG1": "Erstanmeldung",
+        "LATESTINSP": "Letzte Inspektion",
+        "FINDWORKSHOP": "Finden Sie die Werkstatt, die Ihr Auto verbindet",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Nummernschild oder Fahrgestellnummer",
+            "COMPANY": "Firma, Postleitzahl oder Stadt"
+        },
+        "BUTTONS": {
+            "FINDCAR": "Finden Sie das Auto",
+            "ADDCAR": "Speichern"
+        }
+    },
+    "USERPROFILE": {
+        "TITLE": "Mein Profil",
+        "LABELS": {
+            "NAME": "Name",
+            "EMAIL": "E-Mail",
+            "MOBILE": "Telefon",
+            "NEWPASSWORD": "Neues Passwort",
+            "REPEAT": "Wiederhole das neue Passwort",
+            "CURRENT": "Aktuelles Passwort"
+        },
+        "BUTTONS": {
+            "UPDATE": "Aktualisieren"
+        }
+    },
+    "CARDETAIL": {
+        "UPLOADPHOTO": "Ein Foto hochladen",
+        "WORKSHOP": "Werkstatt",
+        "POPOVER": {
+            "SERVICEPLAN": "Serviceplan",
+            "SERVICEBOOK": "Servicebuch",
+            "TRANSFER": "Transfer Service Buch",
+            "CHANGEWORKSHOP": "Werkstatt wechseln",
+            "DELETE": "Auto löschen"
+        },
+        "CARDATA": {
+            "TITLE": "Fahrzeugdaten",
+            "BRAND": "Marke",
+            "MODEL": "Modell",
+            "TYPE": "Typ",
+            "OWNERTYPE": "Besitzerart",
+            "CHASSIS": "Fahrgestellnummer",
+            "REGNO": "Reg. no.",
+            "FIRSTREGNO": "Erstes Reg. Datum",
+            "LASTREG": "Letztes Reg.",
+            "LASTINSPECTION": "Letzte Inspektion",
+            "STATUS": "Status",
+            "COUNTRY": "Land"
+        },
+        "TECHNICAL": {
+            "TITLE": "Technische Daten",
+            "TECHNICALWEIGHT": "Technisches Gesamtgewicht",
+            "TOTALWEIGHT": "Gesamtgewicht",
+            "DEADWEIGHT": "Eigengewicht",
+            "FORCE": "treibende Kraft",
+            "MOTOR": "Motorleistung",
+            "FUEL": "Kraftstoffwirtschaft",
+            "ENGINE": "Motorgröße",
+            "CYLINDER": "Zylinder",
+            "TRAILER": "Trailergewicht ohne Bremsen",
+            "SUSPENSION": "Federgewicht mit Bremsen"
+        },
+        "SERVICEBOOK": {
+            "TITLE": "Servicebuch",
+            "UPLOAD": "Ein oder mehrere Fotos von Ihrem Service-Buch hochladen",
+            "UPLOADBTN": "Foto des Servicebuches hinzufügen",
+            "SEE_ALL": "Siehe alle Servicebüche",
+            "PHOTO_TAG": "Nicht verifiziert",
+            "ALLSERVICE": "Alle Servicebücher",
+            "REMOVESERVICEBOOK": "Möchten Sie dieses Bild entfernen?"
+        },
+        "SERVICEPLAN": {
+            "TITLE": "Serviceplan"
+        },
+        "INSPECTIONREPORTS": {
+            "TITLE": "Inspektionsberichte",
+            "DATE": "Datum",
+            "CATEGORY": "Synsart",
+            "COMPANY": "Unternehmen",
+            "ADDRESS": "Adresse",
+            "KMSTAND": "Kilometerstand",
+            "RESULT": "Ergebnis",
+            "TYPE": "visuelle Anziehung"
+        },
+        "CARBOOK": {
+            "TITLE": "Auto Buch",
+            "DEBT": "Es gibt keine Schulden auf diesem Auto.",
+            "AMOUNT": "Betrag",
+            "DATENUM": "Datumsnummer"
+        },
+        "INSURANCE": {
+            "TITLE": "Versicherung",
+            "COMPANY": "Versicherungsunternehmen",
+            "CREATED": "erstellt",
+            "PROOF": "Beweisnummer",
+            "STATUS": "Status",
+            "TYPE": "Typgenehmigung"
+        },
+        "TAXES": {
+            "TITLE": "Steuern",
+            "LICENCE": "Nummernschild",
+            "TYPE": "Typ",
+            "STATEMENT": "Aussage",
+            "FROM": "Abdeckung von",
+            "COVERING": "Bedecken",
+            "AMOUNT": "Betrag"
+        },
+        "BUTTONS": {
+            "EDIT": "Wechsel"
+        },
+        "ALERT": {
+            "DELETECAR": {
+                "TITLE": "Bestätigen",
+                "MESSAGE": "Bist du sicher, dass du dieses Auto löschen willst?",
+                "CANCLE": "abbrechen",
+                "DELETE": "Löschen"
+            },
+            "WORKSHOPCHANGE": {
+                "TITLE": "Bestätigen",
+                "MESSAGE": "Bist du sicher, dass du den Workshop zu {{value}} ändern möchtest",
+                "YES": "ja",
+                "NO": "Nein"
+            }
+        },
+        "ACTIONSHEET": {
+            "TITLE": "Wählen Sie aus Optionen",
+            "LOADLIB": "Laden aus der Bibliothek",
+            "USECAMERA": "Kamera verwenden",
+            "CANCEL": "abbrechen"
+        },
+        "DELETE": {
+            "TITLE": "Bist du dir sicher, dass du dieses Auto löschen möchtest?",
+            "SUBTITLE": "Geben Sie das Nummernschild des Autos ein, um es zu löschen.",
+            "CANCEL": "Absagen",
+            "DELETE": "Löschen"
+        }
+    },
+    "CARSERVICEPLAN": {
+        "TITLE": "Servicepläne für {{value}}",
+        "ALLTITLE": "ALLE SERVICEPLÄNE",
+        "SEGMENTS": {
+            "UPCOMING": "Kommend",
+            "ORDERED": "Bestellt",
+            "COMPLETED": "Abgeschlossen"
+        },
+        "ORDERPOPUP": {
+            "TITLE": "Bestellen Serviceplan für",
+            "SERVICETYPE": "Service-Typ",
+            "KM": "KM Zustand",
+            "CHANGEDATE": "Datum ändern",
+            "PLACEHOLDER": {
+                "DATE": ""
+            },
+            "BUTTONS": {
+                "YES": "JA",
+                "NO": "Abbrechen"
+            }
+        },
+        "BUTTONS": {
+            "ORDER": "BESTELLUNG",
+            "REPORT": "BERICHT",
+            "CANCELORDER": "ABBRUCHEN"
+        },
+        "WORKSHOP": "Werkstatt",
+        "KM": "Kilometerstand"
+    },
+    "TRANSFER_SERVICE_BOOK": {
+        "TITLE": "Transfer Servicebuch",
+        "SUBTITLE": "Das Service Handbuch ausliefern",
+        "LBL_EMAIL": "Geben Sie Empfänger per E-Mail ein",
+        "LBL_TELE": "Oder geben Sie die Empfänger-Telefonnummer ein",
+        "EMAIL": "E-Mail",
+        "TELE": "Telefon",
+        "TRANSFER": "Check für die Übertragung"
+    },
+    "COMMON": {
+        "SEARCH": "Suche",
+        "PLACEHOLDERS": {
+            "MODELCOMPANY": "Firma, Postleitzahl oder Stadt"
+        },
+        "TOAST": {
+            "NONETWORK": "Netzwerk nicht verfügbar",
+            "CARNOTFOUND": "Auto nicht gefunden",
+            "WORKSHOPUPDATED": "Werkstatt aktualisiert.",
+            "PROFILEUPDATED": "Profil aktualisiert.",
+            "LOGINSUCCESS": "erfolgreich angemeldet",
+            "NAMEREQUIRED": "Name ist erforderlich",
+            "EMAILREQUIRED": "E-Mail ist erforderlich.",
+            "INVALIDEMAIL": "E-Mail muss eine gültige E-Mail Adresse sein.",
+            "PASSWORDNOTEMPTY": "Passwort sollte nicht leer sein",
+            "MOBILEREQUIRED": "Mobil nein ist erforderlich.",
+            "MOBILE10DIGIT": "Mobiltelefon sollte 10 Ziffern sein",
+            "ONLYNUMERICVALUE": "Nur numerische Werte sind erlaubt.",
+            "TERMSCONDITION": "Bitte akzeptieren Sie AGB",
+            "CHASSISNOREQ": "Nummernschild oder Fahrgestellnummer ist erforderlich.",
+            "LICENCEREQ": "Nummernschild erforderlich.",
+            "WORKSHOPADDED": "Workshop added successfully",
+            "WORKSHOPNOTFOUND": "Es ist kein echter Werkstatt, wieder suchen!",
+            "USERCREATED": "Benutzer erstellt!",
+            "COMPANYNOTSELECTED": "Die Firma ist nicht ausgewählt",
+            "EMAILORTELE": "E-Mail oder Telefon eingeben",
+            "REGREQ": "Die eingegebene Registrierungsnummer ist falsch. Versuch es noch einmal.",
+            "ADDSERVICEPLAN": "Der Serviceplan wurde hinzugefügt",
+            "FAILEDTOADDSERVICEPLAN": "Der Serviceplan konnte nicht hinzugefügt werden",
+            "UPDATESERVICEPLAN": "Der Serviceplan wurde aktualisiert",
+            "FAILEDTOUPDATESERVICEPLAN": "Der Serviceplan konnte nicht aktualisiert werden",
+            "ADDEDWORKSHOP": "Die Werkstatt wurde hinzugefügt",
+            "INVALIDTELEPHONENO": "Die Rufnummer ist ungültig",
+            "ADDEDSERVICEBOOK": "Die Service Nachweis Details wurden hinzugefügt",
+            "FAILEDTOADDSERVICEBOOK": "Wir konnten nicht die Service Nachweis Details hinzufügen",
+            "ADDEDCAR": "Ihr Auto wurde hinzugefügt",
+            "CHANGEDORDERDATE": "Das Datum wurde geändert",
+            "FAILEDTOCHANGEORDERDATE": "Das Datum konnte nicht geändert werden",
+            "ADDEDREPARATIONDETAIL": "Reparaturdetails wurden hinzugefügt",
+            "FAILEDTOADDREPARATIONDETAIL": "Reparaturdetails konnten nicht hinzugefügt werden",
+            "NODATAFOUND": "Die Daten wurden nicht gefunden",
+            "IMAGEUPLOADED": "Das Foto wurde hochgeladen",
+            "FAILEDTOUPLOADIMAGE": "Wir konnten nicht das Foto des Autos hinzugefügen",
+            "FEATCHINGRECORDS": "Daten abholen..",
+            "LOADING": "Laden...",
+            "UPLOADING": "Hochladen..",
+            "SERVICETYPEREQUIRED": "Der Servicetyp darf nicht leer sein.",
+            "INVALIDINPUTNAME": "Zahlen sind nicht erlaubt!"
+        },
+        "NODATA": "Zur Zeit sind keine Infos verfügbar",
+        "REQUIRED": "Einige Eintragfelder fehlen."
+    },
+    "MENU": {
+        "WORKSHOP": "Werkstätten",
+        "CUSTOMERCAR": "Kunden",
+        "SERVICEPLAN": "Serviceplan",
+        "NOTIFICATION": "Benachrichtigungen",
+        "SUPPORT": "Unterstützung",
+        "SIGNOUT": "Ausloggen",
+        "REPAIRPHOTO": "Reparaturfotos",
+        "SELECTWORKSHOP": "Workshop auswählen",
+        "SEARCH": "Auto suchen",
+        "SETTING": "Rahmen",
+        "LANGUAGE": "Sprache",
+        "GUIDE": "FÜHREN",
+        "PROFILE": "Mein Profil",
+        "MYCARS": "Meine autos",
+        "CARINFO": "Auto Info"
+    },
+    "ADDCUSTOMER": {
+        "TITLE": "Kunden / Auto hinzufügen",
+        "WORKSHOPNAME": "",
+        "EMAIL": "E-Mail",
+        "MOBILE": "Mobiltelefon",
+        "LICENCE": "Nummernschild(er), mit Komma getrennt",
+        "COMMATEXT": "Komma getrennt",
+        "BTNTEXT": "Hinzufügen",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Kennzeichen 1, Kennzeichen 2 etc."
+        }
+    },
+    "ADDEDITWORKSHOP": {
+        "TITLE": "Car Center",
+        "COMPANYNAME": "Name der Werkstatt",
+        "ADDRESS": "Anschrift der Werkstatt",
+        "POSTALCODE": "Postleitzahl",
+        "CITY": "Stadt",
+        "PHONE": "Rufnummer der Werkstatt",
+        "EMAIL": "E-Mail Adresse der Werkstatt",
+        "CVRNO": "Ust-Idnr",
+        "REGISTEREDCARS": "Eingetragene Autos",
+        "PLACEHOLDERS": {
+            "COMPANYNAME": "AUTOZENTRUM NY Aps",
+            "ADDRESS": "Randersvej 8",
+            "POSTALCODE": "4800",
+            "CITY": "Nykonbing F",
+            "PHONE": "88810933",
+            "EMAIL": "kent@car-center.dk",
+            "CVRNO": "32677835",
+            "REGISTEREDCARS": "20"
+        },
+        "BUTTONADD": "Hinzufügen",
+        "BUTTONUPDATE": "Aktualisieren"
+    },
+    "ADDEDITSERVICEPLAN": {
+        "TITLEADD": "Service hinzufügen",
+        "TITLENEWUPDATE": "Aktualisieren Sie einen Dienst",
+        "TITLEUPDATE": "",
+        "UPDATETEXT": "CAR CENTER Nykøbing Aps",
+        "CUSTOMER": "Kunde",
+        "DATE": "Datum",
+        "SERVICETYPE": {
+            "TITLE": "Service-Typ",
+            "COMMON": "Gemeinsamer Dienst",
+            "GENRAL": "Üblicher Service"
+        },
+        "SERVICESTATUS": {
+            "TITLE": "Servicestatus",
+            "UPCOMING": "Bevorstehende",
+            "ORDERED": "Bestellt"
+        },
+        "KMCONDITION": "Mileage",
+        "REPORT": {
+            "TITLE": "Rapport",
+            "UPLOADTXT": "Berichte hochladen)"
+        },
+        "COMMENTS": "Bemerkungen",
+        "SEARCH": {
+            "TITLE": "Suchen Sie nach dem Auto, dem Sie einen Serviceplan hinzufügen möchten",
+            "PLACEHOLDER": "Nummernschild oder Chasis Nummer",
+            "BUTTONTXT": "Finde das auto"
+        },
+        "DELETE": {
+            "TITLE": "Serviceplan löschen",
+            "SUBTITLE": "Klicken Sie auf OK, um das zu löschen",
+            "CANCEL": "Cancel",
+            "OK": "OK"
+        },
+        "BUTTONADD": "Hinzufügen und Beenden",
+        "BUTTONUPDATE": "Aktualisieren",
+        "ADDMORE": "Mehr hinzufügen",
+        "UPDATEADD": "Aktualisieren und mehr hinzufügen"
+    },
+    "NOTIFICATION": {
+        "TITLE": "Benachrichtigungen",
+        "TITLE_NOTIFICATION": "Benachrichtigungen",
+        "NONEWNOTIFICATION": "Derzeit keine Info",
+        "ORDERED_SERVICE_NOTIFICATION_TILL_DATE_TXT": "Der Fahrzeugeigentümer hat einen Servicebesuch für den ",
+        "ORDERED_SERVICE_NOTIFICATION_AFTER_DATE_TXT": "für das Auto ",
+        "REMOVE_READ_NOTIFICATION": "Entfernen Sie die gelesenen Benachrichtigungen"
+    },
+    "CUSTOMERS": {
+        "TITLE": "Kunden",
+        "PLACEHOLDERS": {
+            "SEARCH": "Suche"
+        }
+    },
+    "CARSHOW": {
+        "OWNER": "Autobesitzer",
+        "BRAND": "Marke",
+        "MODEL": "Modell",
+        "TYPE": "Art",
+        "OWNERTYPE": "Besitzerart",
+        "CHASISNO": "Fahrwerksnummer.",
+        "REGNO": "Nummernschild",
+        "FIRSTREGDATE": "Erstes Reg. Datum",
+        "LASTREGDATE": "Letztes Reg.",
+        "LASTINSPECTION": "Letzte Inspektion",
+        "STATUS": "Status",
+        "COUNTRY": "Land",
+        "SERVICEBOOK": "Servicebuch"
+    },
+    "WORKSHOP": {
+        "TITLE": "Werkstatt",
+        "ACTIVE": "Aktive Werkstatt:",
+        "ADD": "Werkstatt hinzufügen",
+        "ADDCOMPANY": "Firma hinzufügen"
+    },
+    "FORGOTPASS": {
+        "TITLE": "Passwort zurücksetzen",
+        "EMAIL": "E-Mail",
+        "PLACEHOLDER": {
+            "EMAIL": ""
+        },
+        "BUTTONUPDATE": "Aktualisieren"
+    },
+    "VERSIONUPDATE": {
+        "TEXT": "Ein aktualisierte Version dieser App mit Sicherheitsausbesserungen und sonstige Verbesserungen ist von {{ value }} erhältlich. Bitte aktualisieren Sie Ihre App"
+    },
+    "CARDETAILTAB": {
+        "TITLES": {
+            "OVERVIEW": "Auto Info",
+            "HPI": "Schuld",
+            "SURVAY": "Kontrollberichte",
+            "MORE": "Mehr",
+            "TECHNICAL": "Spezifikationen",
+            "CHARGES": "Steuern",
+            "INSURANCE": "Versicherung",
+            "SERVICEBOOK": "Dienstbuch",
+            "OPTIONS": "Optionen"
+        }
+    },
+    "OVERVIEWTAB": {
+        "TITLE": "Autoübersicht",
+        "BRAND": "Marke",
+        "MODEL": "Modell",
+        "TYPE": "Typ",
+        "OWNERTYPE": "Besitzer Typ",
+        "VERSION": "Version",
+        "FRAMENO": "Fahrgestellnummer",
+        "REGNO": "Nummernschild",
+        "FIRSTREGDATE": "Erstzulassungsdatum",
+        "STATUSUPDATE": "Statusaktualisierungsdatum",
+        "LASTREG": "Letzte Neuanmeldung",
+        "LATESTAPPROVEDVIEW": "Letzter Inspektionsdatum",
+        "STATUS": "Registrationsstatus",
+        "COUNTRY": "Land"
+    },
+    "TECHNICALTAB": {
+        "TITLE": "Technische Information",
+        "TECHTOTALWEIGHT": "Technisches Gesamtgewicht",
+        "TOTALWEIGHT": "Gesamtgewicht",
+        "WEIGHT": "Fahrzeuggewicht",
+        "FUEL": "Treibstoffart",
+        "MOTORPOWER": "Motorleistung",
+        "FUELECONOMY": "Kraftstoffeffizienz",
+        "ENGINESIZE": "Hubraum",
+        "CYLINDERS": "Motorzylinder",
+        "DEADWEIGHT": "Anhängergewicht ohne Bremsen",
+        "DRIVINGFORCE": "Driving force",
+        "TRAILERWEGWITHOUTBREAK": "Anhängergewicht mit Bremsen",
+        "SUSPENSIONWEGWITHBREAK": "Suspension weight with brakes"
+    },
+    "DEBTTAB": {
+        "TITLE": "Schulden auf dem Auto",
+        "AMOUNT": "Betrag",
+        "DATENUMBER": "Datum Nummer",
+        "NODATA": "Es gibt keien Schulden im Auto."
+    },
+    "INSURANCETAB": {
+        "TITLE": "Insurance",
+        "COMPANY": "Versicherungsgesellschaft",
+        "CREATED": "Erstellt",
+        "PROOFNO": "Attest Nummer",
+        "STATUS": "Status",
+        "TYPEAPPROVAL": "Typ Genehmigung"
+    },
+    "TAXTAB": {
+        "TITLE": "Tax",
+        "LICPLATE": "Kennzeichen",
+        "TYPE": "Typ",
+        "STATEMENT": "Feststellung",
+        "COVERINGFROM": "Umfasst von",
+        "COVERING": "Umfasst bis",
+        "AMOUNT": "Betrag"
+
+    },
+    "SERVICEBOOKTAB": {
+        "DATE": "Datum",
+        "CARNAME": "Auto",
+        "TYPE": "Typ",
+        "KM": "Kilometerstand",
+        "WORKSHOP": "Werkstatt",
+        "COMMENT": "Kommentar",
+        "REPORT": "Bericht",
+        "SHOWBTN": "Zeigen",
+        "NOPHOTO": " Kein Foto des Papierservice-Buches wurde hochgeladen."
+    },
+    "SERVICEPLANTAB": {
+        "DATE": "Datum",
+        "STATUS": "Status",
+        "TYPE": "Typ",
+        "KM": "Kilometerstand",
+        "COMMENT": "Kommentar",
+        "NODATA": "Keine Information für den Serviceplan."
+    },
+    "INSPECTIONTAB": {
+        "DATE": "Datum",
+        "KINDVEHICALINS": "Typ von Inspektion",
+        "COMPANY": "Firma",
+        "ERROR": "Irrtum",
+        "ADDRESS": "Adresse",
+        "MILAGE": "Kilometerstand",
+        "RESULT": "Ergebnis",
+        "TYPEOFINSPECTION": "Typ von Inspektion"
+    },
+    "COUNTRYMODAL": {
+        "TITLE": "CHOOSE COUNTRY CODE"
+    },
+    "LANGUAGE": {
+        "EN": "Englisch",
+        "DA": "Dänisch",
+        "DE": "Deutsche",
+        "NO": "Norwegisch",
+        "SE": "Schwedisch"
+    },
+    "REPAIRPHOTO": {
+        "TITLE": "Reparaturfotos",
+        "ADDSERVICEBOOK": "Foto des Servicebuches hinzufügen",
+        "ADDREPAIRATION": "Reparaturfoto hinzufügen",
+        "ADD": "Hinzufügen",
+        "CAR": "Auto",
+        "SERVICETYPE": "Service-Typ",
+        "DATE": "Datum",
+        "DELETEON": "Wird am gelöscht",
+        "EDIT": "Bearbeiten",
+        "DELETEALL": "Alles löschen"
+    }
+}

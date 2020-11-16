@@ -1,0 +1,574 @@
+﻿{
+    "HOME": {
+        "TITLE": "DIGITAL servicebok",
+        "SIGNIN": "Logga in",
+        "SIGNUP": "Skapa konto",
+        "LOOKUP": "Sök registreringsskylt eller chassinummer.",
+        "FORGOTPASSWORD": "Glömt ditt lösenord?",
+        "OR": "Eller",
+        "CREATEACCOUNT": "Har du inget konto?",
+        "REG": "registrera",
+        "AGREE": "jag håller",
+        "TERMS": "Villkor",
+        "SEARCH": {
+            "DIDYOUKNOW": "Visste du? Du kan också lägga till",
+            "VEHICALS": "Motorcykel, husvagn, båt, flygplan eller cykel",
+            "LIC": "REGISTRERINGSSKYLT",
+            "VIN": "CHASSINUMMER.."
+
+        },
+        "SIGNINTITLE": "Logga in",
+        "SIGNUPTITLE": "Skapa användare",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Number eller Chassinummer",
+            "USERNAME": "Användarnamn eller e-post",
+            "PASSWORD": "Lösenord",
+            "EMAIL": "E-mejl",
+            "MOBILE": "Mobilnummer"
+        },
+        "BUTTONS": {
+            "FINDCAR": "hitta din bil",
+            "FINDCARTABS": "hitta din bil (TAB)",
+            "SIGNIN": "Logga in",
+            "SIGNINWITHFACEBOOK": "Fortsätt med Facebook",
+            "SIGNUP": "Skapa användare",
+            "ADDCAR": "Lägg till bil"
+        },
+        "SEGMENTS": {
+            "SEARCH": "Sök",
+            "SIGNIN": "Logga in",
+            "SIGNUP": "Skapa",
+            "CAR": "Bil",
+            "PROFILE": "Profil"
+        },
+        "ALERT": {
+            "REGCHANGE": {
+                "TITLE": "Registrering har förändrats",
+                "MESSAGE": "The registreringsnummer ändrats till {{value}} Om du vill söka efter den.?",
+                "NO": "Nej",
+                "YES": "Ja"
+            }
+        }
+    },
+    "SERVICEPLAN": {
+        "TITLE": "Serviceplan",
+        "SEGMENTS": {
+            "UPCOMING": "Kommande",
+            "ORDERED": "Beordrade",
+            "COMPLETED": "Avslutad"
+        },
+        "BUTTONS": {
+            "REPORT": "Rapport",
+            "ORDER": "Beställa",
+            "CANCELORDER": "Av ljus ordning"
+        }
+    },
+    "CARLIST": {
+        "TITLE": "Bil",
+        "LOOKS": "Det ser ut som om du inte har en bil ...",
+        "UNLESS": "Om du inte berätta något annat",
+        "BUTTONS": {
+            "OFCOURSE": "Det är klart jag har en bil!",
+            "ADDCAR": "Lägg till din bil"
+        },
+        "POPOVER": {
+            "PROFILE": "Min profil",
+            "SIGNOUT": "Logga ut"
+        }
+    },
+    "ADDCAR": {
+        "TITLE": "Lägg till bilen",
+        "ADDCARBY": "Lägg din bil med",
+        "CAR": "Bil",
+        "LICENCEPLATE": "registreringsskylt",
+        "CHASSISNUMBER": "Chassinummer",
+        "BRAND": "Brand",
+        "MODEL": "Model",
+        "TYPE": "typ",
+        "REG1": "första reg.",
+        "LATESTINSP": "Senaste inspektion",
+        "FINDWORKSHOP": "Hitta din bil verkstad binder",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Registreringsskylt eller Chassinummer",
+            "COMPANY": "Business, postnummer eller stad"
+        },
+        "BUTTONS": {
+            "FINDCAR": "Hitta din bil",
+            "ADDCAR": "Spara"
+        }
+    },
+    "USERPROFILE": {
+        "TITLE": "Min profil",
+        "LABELS": {
+            "NAME": "Namn",
+            "EMAIL": "E-mejl",
+            "MOBILE": "Telefon",
+            "NEWPASSWORD": "Nytt lösenord",
+            "REPEAT": "Upprepa lösenord",
+            "CURRENT": "Nuvarande lösenord"
+        },
+        "BUTTONS": {
+            "UPDATE": "Uppdatera"
+        }
+    },
+    "CARDETAIL": {
+        "UPLOADPHOTO": "Ladda upp en bild av bilen",
+        "WORKSHOP": "verkstad",
+        "POPOVER": {
+            "SERVICEPLAN": "Serviceplan",
+            "SERVICEBOOK": "Servicebok",
+            "TRANSFER": "Överlåt servicebok",
+            "CHANGEWORKSHOP": "Byt workshop",
+            "DELETE": "Ta bort bil"
+        },
+        "CARDATA": {
+            "TITLE": "bil uppgifter",
+            "BRAND": "Brand",
+            "MODEL": "Model",
+            "TYPE": "Typ",
+            "OWNERTYPE": "ägare typ",
+            "CHASSIS": "Chassinummer.",
+            "REGNO": "Reg.nr.",
+            "FIRSTREGNO": "Første reg. dato",
+            "LASTREG": "Sista omregistrering",
+            "LASTINSPECTION": "Senast ändrad syn",
+            "STATUS": "Status",
+            "COUNTRY": "Land"
+        },
+        "TECHNICAL": {
+            "TITLE": "Teknisk information",
+            "TECHNICALWEIGHT": "Tekniska Total vikt",
+            "TOTALWEIGHT": "Total vikt",
+            "DEADWEIGHT": "egen vikt",
+            "FORCE": "drivkraft",
+            "MOTOR": "motoreffekt",
+            "FUEL": "bränsleekonomi",
+            "ENGINE": "motorstorlek",
+            "CYLINDER": "cylindrar",
+            "TRAILER": "släpvagnsvikt utan bromsar",
+            "SUSPENSION": "släpvagnsvikt med broms"
+        },
+        "SERVICEBOOK": {
+            "TITLE": "Boken",
+            "UPLOAD": "Ladda en eller flera bilder av servicebok",
+            "UPLOADBTN": "Lägg till ett foto i serviceboken",
+            "SEE_ALL": "Se alla serviceböcker",
+            "PHOTO_TAG": "Ej bekräftat",
+            "ALLSERVICE": "Alla serviceböcker",
+            "REMOVESERVICEBOOK": "Vill du ta bort den här bilden?"
+        },
+        "SERVICEPLAN": {
+            "TITLE": "Serviceplan"
+        },
+        "INSPECTIONREPORTS": {
+            "TITLE": "undersökningsrapporter",
+            "DATE": "Date",
+            "CATEGORY": "Synsart",
+            "COMPANY": "Företag",
+            "ADDRESS": "Adress",
+            "KMSTAND": "KM-able",
+            "RESULT": "resultat",
+            "TYPE": "visuell typ"
+        },
+        "CARBOOK": {
+            "TITLE": "HPI Register",
+            "DEBT": "skulden på den här bilen.",
+            "AMOUNT": "Belopp",
+            "DATENUM": "Utgivningsdatum"
+        },
+        "INSURANCE": {
+            "TITLE": "försäkring",
+            "COMPANY": "Försäkringsbolaget",
+            "CREATED": "Skapad",
+            "PROOF": "Bevis nummer",
+            "STATUS": "Status",
+            "TYPE": "typgodkännande"
+        },
+        "TAXES": {
+            "TITLE": "Avgifter",
+            "LICENCE": "registreringsskylt",
+            "TYPE": "Typ",
+            "STATEMENT": "uttalande",
+            "FROM": "Gäller från",
+            "COVERING": "Gäller till",
+            "AMOUNT": "Belopp"
+        },
+        "BUTTONS": {
+            "EDIT": "Endring"
+        },
+        "ALERT": {
+            "DELETECAR": {
+                "TITLE": "Bekräfta",
+                "MESSAGE": "Är du säker på att du vill ta bort den här bilen?",
+                "CANCLE": "Avbryt",
+                "DELETE": "Ta bort"
+            },
+            "WORKSHOPCHANGE": {
+                "TITLE": "Bekräfta",
+                "MESSAGE": "Är du säker på att du vill byta verkstad till {{value}}",
+                "YES": "Ja",
+                "NO": "Nej"
+            }
+        },
+        "ACTIONSHEET": {
+            "TITLE": "Välj bildkälla",
+            "LOADLIB": "Ladda från biblioteket",
+            "USECAMERA": "Använd kamera",
+            "CANCEL": "Avbryt"
+        },
+        "DELETE": {
+            "TITLE": "Är du säker på att du vill ta bort det här bil?",
+            "SUBTITLE": "Skriv in bilens nummerplatta för att ta bort den.",
+            "CANCEL": "Avbryta",
+            "DELETE": "Radera"
+        }
+
+    },
+    "CARSERVICEPLAN": {
+        "TITLE": "serviceplaner för {{value}}",
+        "ALLTITLE": "ALLA SERVICEPLANER",
+        "SEGMENTS": {
+            "UPCOMING": "framtida",
+            "ORDERED": "beställt",
+            "COMPLETED": "Avslutad"
+        },
+        "ORDERPOPUP": {
+            "TITLE": "Order Service plan för",
+            "SERVICETYPE": "Typ av tjänst",
+            "KM": "KM skick",
+            "CHANGEDATE": "Byt datum",
+            "PLACEHOLDER": {
+                "DATE": ""
+            },
+            "BUTTONS": {
+                "YES": "JA",
+                "NO": "Avbryt"
+            }
+        },
+        "BUTTONS": {
+            "ORDER": "Beställa",
+            "REPORT": "Rapport",
+            "CANCELORDER": "Av ljus ordning"
+        },
+        "WORKSHOP": "verkstad",
+        "KM": "Körsträcka"
+    },
+    "TRANSFER_SERVICE_BOOK": {
+        "TITLE": "Överför servicebok",
+        "SUBTITLE": "Överför servicebok för",
+        "LBL_EMAIL": "Ange mottagare via e-post",
+        "LBL_TELE": "Eller ange mottagarens telefonnummer",
+        "EMAIL": "E-mejl",
+        "TELE": "Telefon",
+        "TRANSFER": "Kontrollera om överföring sker"
+    },
+    "COMMON": {
+        "SEARCH": "Sök",
+        "PLACEHOLDERS": {
+            "MODELCOMPANY": "Business, postnummer eller stad"
+        },
+        "TOAST": {
+            "NONETWORK": "Nätverket är inte tillgängligt",
+            "CARNOTFOUND": "Bil hittades inte",
+            "WORKSHOPUPDATED": "Verkstads uppdateras.",
+            "PROFILEUPDATED": "Profil uppdaterad.",
+            "LOGINSUCCESS": "Inloggad framgångsrikt",
+            "NAMEREQUIRED": "Namn krävs",
+            "EMAILREQUIRED": "E-post krävs.",
+            "INVALIDEMAIL": "E-mejl måste vara en giltig e-mejl.",
+            "PASSWORDNOTEMPTY": "Lösenordet får inte vara tomt.",
+            "MOBILEREQUIRED": "Mobilnummer är obligatoriskt.",
+            "MOBILE10DIGIT": "Mobiltelefonen måste vara 10 siffror.",
+            "TERMSCONDITION": "Vänligen acceptera villkoren",
+            "CHASSISNOREQ": "Registreringsskylt eller Chassinummer krävs.",
+            "LICENCEREQ": "Licensskylt krävs.",
+            "WORKSHOPADDED": "Workshop added successfully",
+            "WORKSHOPNOTFOUND": "Det är inte en riktig verkstad, sök igen!",
+            "USERCREATED": "Användaren skapad!",
+            "COMPANYNOTSELECTED": "Företaget är inte valt",
+            "EMAILORTELE": "Ange e-post eller telefon",
+            "REGREQ": "Inmatat registreringsnummer är fel. Försök igen.",
+            "ADDSERVICEPLAN": "Serviceplanen lades till.",
+            "FAILEDTOADDSERVICEPLAN": "Serviceplanen kunde inte läggas till.",
+            "UPDATESERVICEPLAN": "Serviceplanen uppdaterades.",
+            "FAILEDTOUPDATESERVICEPLAN": "Serviceplanen kunde inte uppdateras.",
+            "ADDEDWORKSHOP": "Verkstaden har nu lagts till",
+            "INVALIDTELEPHONENO": "Det angivna telefonnumret är inte korrekt.",
+            "ADDEDSERVICEBOOK": "Uppgifter om serviceboken lades till.",
+            "FAILEDTOADDSERVICEBOOK": "Kunde inte lägga till uppgifter till serviceboken.",
+            "ADDEDCAR": "Din bil har nu lagts till.",
+            "ONLYNUMERICVALUE": "Endast numeriska värden är tillåtna.",
+            "CHANGEDORDERDATE": "Datumet har ändrats.",
+            "FAILEDTOCHANGEORDERDATE": "Datumen har inte ändrats.",
+            "ADDEDREPARATIONDETAIL": "Uppgifter om reparation har lagts till.",
+            "FAILEDTOADDREPARATIONDETAIL": "Uppgifter om reparation kunde inte läggas till.",
+            "NODATAFOUND": "Hittade inga data.",
+            "IMAGEUPLOADED": "Foto laddades upp.",
+            "FAILEDTOUPLOADIMAGE": "Kunde inte lägga till foto på bilen.",
+            "FEATCHINGRECORDS": "Hämtar data..",
+            "LOADING": "Läser in..",
+            "UPLOADING": "Laddar upp..",
+            "SERVICETYPEREQUIRED": "Typ av tjänst kan inte vara tomt.",
+            "INVALIDINPUTNAME": "Nummer är inte tillåtna!"
+        },
+        "NODATA": "För närvarande finns det ingen information tillgänglig",
+        "REQUIRED": "Det saknas några inmatningsfält."
+    },
+    "MENU": {
+        "WORKSHOP": "Verkstad",
+        "CUSTOMERCAR": "Kunder",
+        "SERVICEPLAN": "Serviceplaner",
+        "NOTIFICATION": "Anmälningar",
+        "SUPPORT": "Support",
+        "SIGNOUT": "Logga ut",
+        "SELECTWORKSHOP": "Välj verkstad",
+        "REPAIRPHOTO": "Reparationsbilder",
+        "SEARCH": "Sök bil",
+        "SETTING": "Miljö",
+        "LANGUAGE": "Språk",
+        "GUIDE": "Guide",
+        "PROFILE": "Min Profil",
+        "MYCARS": "Mina bilar",
+        "CARINFO": "Bilinfo"
+    },
+    "ADDCUSTOMER": {
+        "TITLE": "Lägg till kund / bil",
+        "WORKSHOPNAME": "",
+        "EMAIL": "E-mejl",
+        "MOBILE": "Mobilnummer",
+        "LICENCE": "Registeringsskyltar, separerade med komma",
+        "COMMATEXT": "Separerade med komma",
+        "BTNTEXT": "Lägg till",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Licensskylt 1, Licensskylt 2 etc."
+        }
+    },
+    "ADDEDITWORKSHOP": {
+        "TITLE": "Bilcenter",
+        "COMPANYNAME": "Verkstadens namn",
+        "ADDRESS": "Verkstadens adress",
+        "POSTALCODE": "Postnummer",
+        "CITY": "Ort",
+        "PHONE": "Verkstadens namn",
+        "EMAIL": "Verkstadens e-mejl",
+        "CVRNO": "Företagets CVR",
+        "REGISTEREDCARS": "Registrerade bilar",
+        "PLACEHOLDERS": {
+            "COMPANYNAME": "CAR CENTER NY Aps",
+            "ADDRESS": "Randersvej 8",
+            "POSTALCODE": "4800",
+            "CITY": "Nykonbing F",
+            "PHONE": "88810933",
+            "EMAIL": "kent@car-center.dk",
+            "CVRNO": "32677835",
+            "REGISTEREDCARS": "20"
+        },
+        "BUTTONADD": "Lägg till",
+        "BUTTONUPDATE": "Uppdatering"
+    },
+    "ADDEDITSERVICEPLAN": {
+        "TITLEADD": "Skapa Service",
+        "TITLENEWUPDATE": "Uppdatera en tjänst",
+        "TITLEUPDATE": "",
+        "UPDATETEXT": "CAR CENTER NYKOBING Aps",
+        "CUSTOMER": "Kund",
+        "DATE": "Datum",
+        "SERVICETYPE": {
+            "TITLE": "Servicetyp",
+            "COMMON": "Gemensam service",
+            "GENRAL": "Allmänna tjänster"
+        },
+        "SERVICESTATUS": {
+            "TITLE": "Servicestatus",
+            "UPCOMING": "kommande",
+            "ORDERED": "Beordrade"
+        },
+        "KMCONDITION": "Kilometertal",
+        "REPORT": {
+            "TITLE": "Rapport",
+            "UPLOADTXT": "Ladda upp rapport (er)"
+        },
+        "COMMENTS": "Kommentarer",
+        "SEARCH": {
+            "TITLE": "Sök efter den bil du vill lägga till en serviceplan till",
+            "PLACEHOLDER": "Licensplatta eller Chasisnummer",
+            "BUTTONTXT": "Hitta bilen"
+        },
+        "DELETE": {
+            "TITLE": "Ta bort serviceplanen",
+            "SUBTITLE": "Klicka på OK för att radera det här",
+            "CANCEL": "Cancel",
+            "OK": "OK"
+        },
+        "BUTTONADD": "Lägg till och avsluta",
+        "BUTTONUPDATE": "Uppdatera",
+        "ADDMORE": "Lägg till mer",
+        "UPDATEADD": "Uppdatera och lägg till mer"
+    },
+    "NOTIFICATION": {
+        "TITLE": "anmälningar",
+        "TITLE_NOTIFICATION": "Anmälningar",
+        "NONEWNOTIFICATION": "För närvarande ingen info",
+        "ORDERED_SERVICE_NOTIFICATION_TILL_DATE_TXT": "Bilägaren har beställt service den ",
+        "ORDERED_SERVICE_NOTIFICATION_AFTER_DATE_TXT": "för bil ",
+        "REMOVE_READ_NOTIFICATION": "Ta bort lästa anmälningar"
+    },
+    "CUSTOMERS": {
+        "TITLE": "Kunder",
+        "PLACEHOLDERS": {
+            "SEARCH": "Sök"
+        }
+    },
+    "CARSHOW": {
+        "OWNER": "Bilägare",
+        "BRAND": "varumärke",
+        "MODEL": "Modell",
+        "TYPE": "Typ",
+        "OWNERTYPE": "Ägare typ",
+        "CHASISNO": "Chassi nr.",
+        "REGNO": "Reg nr.",
+        "FIRSTREGDATE": "Första Reg. datum",
+        "LASTREGDATE": "Sista reg.",
+        "LASTINSPECTION": "Senaste inspektion",
+        "STATUS": "Status",
+        "COUNTRY": "Land",
+        "SERVICEBOOK": "Servicebok"
+    },
+    "WORKSHOP": {
+        "TITLE": "Verkstad",
+        "ACTIVE": "Aktiv verkstad",
+        "ADD": "Lägg till verkstad",
+        "ADDCOMPANY": "Lägg till ett företag"
+    },
+    "FORGOTPASS": {
+        "TITLE": "Återställ lösenord",
+        "EMAIL": "E-mejl",
+        "PLACEHOLDER": {
+            "EMAIL": ""
+        },
+        "BUTTONUPDATE": "Uppdatera"
+    },
+    "VERSIONUPDATE": {
+        "TEXT": "En uppdaterad version av denna app med säkerhetskorrigeringar och förbättringar är tillgänglig i {{ value }}. Vi ber dig att uppdatera din app"
+    },
+    "CARDETAILTAB": {
+        "TITLES": {
+            "OVERVIEW": "Bilinfo",
+            "HPI": "Fel",
+            "SURVAY": "Inspektionsrapport",
+            "MORE": "Mer",
+            "TECHNICAL": "Specifikationer",
+            "CHARGES": "Skatter",
+            "INSURANCE": "Försäkring",
+            "SERVICEBOOK": "Boken",
+            "OPTIONS": "Tjänster"
+        }
+    },
+    "OVERVIEWTAB": {
+        "TITLE": "Bilöversikt",
+        "BRAND": "Varumärke",
+        "MODEL": "Modell",
+        "TYPE": "Typ",
+        "OWNERTYPE": "Ägare typ",
+        "VERSION": "Släpp",
+        "FRAMENO": "Chassinummer",
+        "REGNO": "Reg. nr.",
+        "FIRSTREGDATE": "Datum",
+        "STATUSUPDATE": "Statusuppdatering",
+        "LASTREG": "Senast omregistrering",
+        "LATESTAPPROVEDVIEW": "Senaste inspektionsdatum",
+        "STATUS": "Registreringsstatus",
+        "COUNTRY": "Land"
+    },
+    "TECHNICALTAB": {
+        "TITLE": "Teknisk information",
+        "TECHTOTALWEIGHT": "Total teknisk vikt",
+        "TOTALWEIGHT": "Total vikt",
+        "WEIGHT": "Vikt",
+        "FUEL": "Bränsle",
+        "MOTORPOWER": "Motorkraft",
+        "FUELECONOMY": "Bränsle effektivitet",
+        "ENGINESIZE": "Kapacitet",
+        "CYLINDERS": "Motor cylinder",
+        "DEADWEIGHT": "Släpvagnsvikt utan bromsar",
+        "DRIVINGFORCE": "Driving force",
+        "TRAILERWEGWITHOUTBREAK": "Släpvagnsvikt med bromsar",
+        "SUSPENSIONWEGWITHBREAK": "Suspension weight with brakes"
+    },
+    "DEBTTAB": {
+        "TITLE": "Skuld på bilen",
+        "AMOUNT": "Belopp",
+        "DATENUMBER": "Datum och nummer",
+        "NODATA": "Det finns inga skulder på denna bil"
+    },
+    "INSURANCETAB": {
+        "TITLE": "Insurance",
+        "COMPANY": "Försäkringsbolag",
+        "CREATED": "Registrerad",
+        "PROOFNO": "Bevis nummer",
+        "STATUS": "Status",
+        "TYPEAPPROVAL": "Bevis nummer"
+    },
+    "TAXTAB": {
+        "TITLE": "Tax",
+        "LICPLATE": "Registreringsnummer",
+        "TYPE": "Type",
+        "STATEMENT": "Redovisning",
+        "COVERINGFROM": "Täcker från",
+        "COVERING": "Täcker till",
+        "AMOUNT": "Belopp"
+
+    },
+    "SERVICEBOOKTAB": {
+        "DATE": "Datum",
+        "CARNAME": "Bil",
+        "TYPE": "Typ",
+        "KM": "Körsträcka",
+        "WORKSHOP": "Verkstad",
+        "COMMENT": "Kommentar",
+        "REPORT": "Rapporten",
+        "SHOWBTN": "Visa",
+        "NOPHOTO": "Inget foto på papperstjänstboken har laddats upp."
+    },
+    "SERVICEPLANTAB": {
+        "DATE": "Datum",
+        "STATUS": "Status",
+        "TYPE": "Typ",
+        "KM": "Kilometertal",
+        "COMMENT": "Kommentar",
+        "NODATA": "Ingen information för serviceplanen."
+    },
+    "INSPECTIONTAB": {
+        "DATE": "Datum",
+        "KINDVEHICALINS": "Besiktningsart",
+        "COMPANY": "Företag",
+        "ERROR": "Fel",
+        "ADDRESS": "Adress",
+        "MILAGE": "Kilometertal",
+        "RESULT": "Resultat",
+        "TYPEOFINSPECTION": "Besiktningstyp"
+    },
+    "COUNTRYMODAL": {
+        "TITLE": "CHOOSE COUNTRY CODE"
+    },
+    "LANGUAGE": {
+        "EN": "Engelsk",
+        "DA": "Danska",
+        "DE": "Tysk",
+        "NO": "Norsk",
+        "SE": "Svenska"
+    },
+    "REPAIRPHOTO": {
+        "TITLE": "Reparationsbilder",
+        "ADDSERVICEBOOK": "Lägg till ett foto i serviceboken",
+        "ADDREPAIRATION": "Lägg till reparationsbilder",
+        "ADD": "Lägg till",
+        "CAR": "Bil",
+        "SERVICETYPE": "Servicetyp",
+        "DATE": "Datum",
+        "DELETEON": "Kommer att raderas den",
+        "EDIT": "Redigere",
+        "DELETEALL": "Reparationsbilder"
+    }
+
+}

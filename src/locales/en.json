@@ -1,0 +1,577 @@
+{
+    "HOME": {
+        "TITLE": "DIGITAL SERVICE BOOK",
+        "SIGNIN": "User login",
+        "SIGNUP": "Sign up",
+        "LOOKUP": "Search on license plate or vin.",
+        "FORGOTPASSWORD": "Forgot Your Password?",
+        "OR": "Or",
+        "CREATEACCOUNT": "Don't have an account?",
+        "REG": " Register",
+        "AGREE": "I agree",
+        "TERMS": "Terms and conditions",
+        "SEARCH": {
+            "DIDYOUKNOW": "Did you know? You can also add",
+            "VEHICALS": "Motorcycle, caravan, boat, plane or bicycle",
+            "LIC": "LICENSE PLATE",
+            "VIN": "CHASSIS NUMBER."
+        },
+        "SIGNINTITLE": "Sign in",
+        "SIGNUPTITLE": "Register user",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Licence plate or VIN number",
+            "USERNAME": "Username or Email",
+            "PASSWORD": "Password",
+            "EMAIL": "Email",
+            "MOBILE": "Mobile number"
+        },
+        "BUTTONS": {
+            "FINDCAR": "FIND THE CAR",
+            "FINDCARTABS": "FIND THE CAR (TAB)",
+            "SIGNIN": "Sign in",
+            "SIGNINWITHFACEBOOK": "CONTINUE WITH FACEBOOK",
+            "SIGNUP": "Register user",
+            "ADDCAR": "ADD CAR"
+
+        },
+        "SEGMENTS": {
+            "SEARCH": "Search",
+            "SIGNIN": "Sign in",
+            "SIGNUP": "Sign up",
+            "CAR": "Car",
+            "PROFILE": "Profile"
+        },
+        "ALERT": {
+            "REGCHANGE": {
+                "TITLE": "Registration number changed",
+                "MESSAGE": "The registration number is changed to {{value}}. Would you like to search it?",
+                "NO": "No",
+                "YES": "Yes"
+            }
+        }
+    },
+    "SERVICEPLAN": {
+        "TITLE": "Service plan",
+        "SEGMENTS": {
+            "UPCOMING": "Upcoming",
+            "ORDERED": "Ordered",
+            "COMPLETED": "Completed"
+        },
+        "BUTTONS": {
+            "REPORT": "REPORT",
+            "ORDER": "ORDER",
+            "CANCELORDER": "CANCEL ORDER"
+        }
+    },
+    "CARLIST": {
+        "TITLE": "Car",
+        "LOOKS": "Looks like you haven't got a car...",
+        "UNLESS": "Unless you tell us otherwise",
+        "BUTTONS": {
+            "OFCOURSE": "OF COURSE I HAVE A CAR!",
+            "ADDCAR": "ADD A CAR"
+        },
+        "POPOVER": {
+            "PROFILE": "My profile",
+            "SIGNOUT": "Signout"
+        }
+    },
+    "ADDCAR": {
+        "TITLE": "Add car",
+        "ADDCARBY": "Add your car by",
+        "CAR": "Car",
+        "LICENCEPLATE": "License Plate",
+        "CHASSISNUMBER": "Chassis Number",
+        "BRAND": "Brand",
+        "MODEL": "Model",
+        "TYPE": "Type",
+        "REG1": "1. reg.",
+        "LATESTINSP": "Latest inspection",
+        "FINDWORKSHOP": "Find the workshop your car ties to",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "Licence Plate or VIN Number",
+            "COMPANY": "Company, ZIP code or city"
+        },
+        "BUTTONS": {
+            "FINDCAR": "Find the car",
+            "ADDCAR": "Save"
+        }
+    },
+    "USERPROFILE": {
+        "TITLE": "My profile",
+        "LABELS": {
+            "NAME": "Name",
+            "EMAIL": "Email",
+            "MOBILE": "Phone",
+            "NEWPASSWORD": "New password",
+            "REPEAT": "Repeat new password",
+            "CURRENT": "Current password"
+        },
+        "BUTTONS": {
+            "UPDATE": "Update"
+        }
+    },
+    "CARDETAIL": {
+        "UPLOADPHOTO": "Upload a photo of the car",
+        "WORKSHOP": "Workshop",
+        "POPOVER": {
+            "SERVICEPLAN": "Service plan",
+            "SERVICEBOOK": "Service book",
+            "TRANSFER": "Transfer service book",
+            "CHANGEWORKSHOP": "Change the workshop",
+            "DELETE": "Delete car"
+        },
+        "CARDATA": {
+            "TITLE": "Car data",
+            "BRAND": "Brand",
+            "MODEL": "Model",
+            "TYPE": "Type",
+            "OWNERTYPE": "Owner type",
+            "CHASSIS": "Chassis no.",
+            "REGNO": "Reg. no.",
+            "FIRSTREGNO": "First reg. date",
+            "LASTREG": "Last reg.",
+            "LASTINSPECTION": "Last inspection",
+            "STATUS": "Status",
+            "COUNTRY": "Country"
+        },
+        "TECHNICAL": {
+            "TITLE": "Technical specifications",
+            "TECHNICALWEIGHT": "Technical Total Weight",
+            "TOTALWEIGHT": "Total Weight",
+            "DEADWEIGHT": "Dead weight",
+            "FORCE": "driving force",
+            "MOTOR": "Motor power",
+            "FUEL": "Fuel economy",
+            "ENGINE": "engine size",
+            "CYLINDER": "cylinders",
+            "TRAILER": "Trailer weight without brakes",
+            "SUSPENSION": "Suspension weight with brakes"
+        },
+        "SERVICEBOOK": {
+            "TITLE": "Service book",
+            "UPLOAD": "Upload one or more photos of your service book",
+            "UPLOADBTN": "Add a photo to the service book",
+            "SEE_ALL": "See all service books",
+            "PHOTO_TAG": "Not confirmed",
+            "ALLSERVICE": "All service books",
+            "REMOVESERVICEBOOK": "Do you want to remove this picture?"
+        },
+        "SERVICEPLAN": {
+            "TITLE": "Service plan"
+        },
+        "INSPECTIONREPORTS": {
+            "TITLE": "Inspection reports",
+            "DATE": "Date",
+            "CATEGORY": "Synsart",
+            "COMPANY": "Company",
+            "ADDRESS": "Address",
+            "KMSTAND": "KM-stand",
+            "RESULT": "Result",
+            "TYPE": "visual Attraction"
+        },
+        "CARBOOK": {
+            "TITLE": "Car book",
+            "DEBT": "There is no debt on this car.",
+            "AMOUNT": "Amount",
+            "DATENUM": "Date number"
+        },
+        "INSURANCE": {
+            "TITLE": "Insurance",
+            "COMPANY": "Insurance company",
+            "CREATED": "created",
+            "PROOF": "Proof number",
+            "STATUS": "Status",
+            "TYPE": "Type approval"
+        },
+        "TAXES": {
+            "TITLE": "Taxes",
+            "LICENCE": "license plate",
+            "TYPE": "Type",
+            "STATEMENT": "statement",
+            "FROM": "Covering from",
+            "COVERING": "Covering",
+            "AMOUNT": "Amount"
+        },
+        "BUTTONS": {
+            "EDIT": "Switch"
+        },
+        "ALERT": {
+            "DELETECAR": {
+                "TITLE": "Confirm",
+                "MESSAGE": "Are you sure you want to delete this car?",
+                "CANCLE": "cancel",
+                "DELETE": "Delete"
+            },
+            "WORKSHOPCHANGE": {
+                "TITLE": "Confirm",
+                "MESSAGE": "Are you sure you want to change workshop to {{ value }}",
+                "YES": "Yes",
+                "NO": "No"
+            }
+        },
+        "ACTIONSHEET": {
+            "TITLE": "Select from options",
+            "LOADLIB": "Load from library",
+            "USECAMERA": "Use Camera",
+            "CANCEL": "Cancel"
+        },
+        "DELETE": {
+            "TITLE": "Are you sure you want to delete this car?",
+            "SUBTITLE": "Enter the car's registration number to delete.",
+            "CANCEL": "Cancel",
+            "DELETE": "Delete"
+        }
+    },
+    "CARSERVICEPLAN": {
+        "TITLE": "Service plans for {{ value }}",
+        "ALLTITLE": "ALL SERVICE PLANS",
+        "SEGMENTS": {
+            "UPCOMING": "Upcoming",
+            "ORDERED": "Ordered",
+            "COMPLETED": "Completed"
+        },
+        "ORDERPOPUP": {
+            "TITLE": "Order Service plan for",
+            "SERVICETYPE": "Service Type",
+            "KM": "KM Condition",
+            "CHANGEDATE": "Change Date",
+            "PLACEHOLDER": {
+                "DATE": ""
+            },
+            "BUTTONS": {
+                "YES": "YES",
+                "NO": "CANCEL"
+            }
+        },
+        "BUTTONS": {
+            "ORDER": "Order",
+            "REPORT": "Report",
+            "CANCELORDER": "CANCEL ORDER"
+        },
+        "WORKSHOP": "Workshop",
+        "KM": "Mileage"
+    },
+    "TRANSFER_SERVICE_BOOK": {
+        "TITLE": "Transfer service",
+        "SUBTITLE": "Transfer service book of",
+        "LBL_EMAIL": "Enter recipient by email",
+        "LBL_TELE": "Or enter the recipient's phone number",
+        "EMAIL": "Email",
+        "TELE": "Phone",
+        "TRANSFER": "Check for transfer"
+    },
+
+    "COMMON": {
+        "SEARCH": "Search",
+        "PLACEHOLDERS": {
+            "MODELCOMPANY": "Company, ZIP code or city"
+        },
+        "TOAST": {
+            "NONETWORK": "Network not available",
+            "CARNOTFOUND": "Car not found",
+            "WORKSHOPUPDATED": "Workshop updated.",
+            "PROFILEUPDATED": "Profile updated.",
+            "LOGINSUCCESS": "Logged in successfully",
+            "NAMEREQUIRED": "Name is required.",
+            "EMAILREQUIRED": "Email is required.",
+            "INVALIDEMAIL": "The email must be a valid email address.",
+            "PASSWORDNOTEMPTY": "Password should not be empty.",
+            "MOBILEREQUIRED": "Mobile no is required.",
+            "MOBILE10DIGIT": "Mobile phone should be 10 digit.",
+            "ONLYNUMERICVALUE": "Only numeric values is allowed.",
+            "TERMSCONDITION": "Please accept terms & conditions",
+            "CHASSISNOREQ": "License plate or Chassis number is required.",
+            "LICENCEREQ": "License plate is required.",
+            "NOEMAILFB": "App needs your account email. please check your facebook privacy settings.",
+            "CANTLOGIN": "Unable to login. please try again",
+            "WORKSHOPADDED": "Workshop added successfully",
+            "FORGOTPASS": "Your Password is sent to your email id.",
+            "WORKSHOPNOTFOUND": "It's not a real workshop, search again!",
+            "USERCREATED": "User Created!",
+            "COMPANYNOTSELECTED": "Company is not selected",
+            "EMAILORTELE": "Input email or phone",
+            "REGREQ": "Entered registration number is wrong. Try again.",
+            "ADDSERVICEPLAN": "The service plan was added",
+            "FAILEDTOADDSERVICEPLAN": "The service plan could not be added",
+            "UPDATESERVICEPLAN": "The service plan has been updated",
+            "FAILEDTOUPDATESERVICEPLAN": "The service plan could not be updated",
+            "ADDEDWORKSHOP": "The workshop has been added",
+            "INVALIDTELEPHONENO": "The phone number is invalid",
+            "ADDEDSERVICEBOOK": "Service book details have been added",
+            "FAILEDTOADDSERVICEBOOK": "We could not add details to the service book",
+            "ADDEDCAR": "Your car has been added",
+            "CHANGEDORDERDATE": "The date has been changed",
+            "FAILEDTOCHANGEORDERDATE": "The date could not be changed",
+            "ADDEDREPARATIONDETAIL": "Repair details have been added",
+            "FAILEDTOADDREPARATIONDETAIL": "Repair details could not be added",
+            "NODATAFOUND": "No data was found",
+            "IMAGEUPLOADED": "The photo has been uploaded",
+            "FAILEDTOUPLOADIMAGE": "We could not add the photo of the car",
+            "FEATCHINGRECORDS": "Fetching records..",
+            "LOADING": "Loading...",
+            "UPLOADING": "Uploading..",
+            "SERVICETYPEREQUIRED": "Service Type could not be empty.",
+            "INVALIDINPUTNAME": "Numbers are not allowed !"
+        },
+        "NODATA": "Currently there is no information available",
+        "REQUIRED": "Some input fields are missing."
+    },
+    "MENU": {
+        "WORKSHOP": "Workshop",
+        "CUSTOMERCAR": "Customers",
+        "SERVICEPLAN": "Service plan",
+        "NOTIFICATION": "Notifications",
+        "SUPPORT": "Support",
+        "SIGNOUT": "Log out",
+        "SELECTWORKSHOP": "Select Workshop",
+        "REPAIRPHOTO": "Reparation photos",
+        "SEARCH": "Search car",
+        "SETTING": "Setting",
+        "LANGUAGE": "Language",
+        "GUIDE": "Guide",
+        "PROFILE": "My profile",
+        "MYCARS": "My cars",
+        "CARINFO": "Car info"
+    },
+    "ADDCUSTOMER": {
+        "TITLE": "Add customers",
+        "WORKSHOPNAME": "",
+        "EMAIL": "Email",
+        "MOBILE": "Mobile phone",
+        "LICENCE": "License plate(s) ",
+        "COMMATEXT": "Comma separated",
+        "BTNTEXT": "Add",
+        "PLACEHOLDERS": {
+            "LICENCEPLATE": "License plate 1, License plate 2 etc."
+        }
+    },
+    "ADDEDITWORKSHOP": {
+        "TITLE": "CAR CENTER",
+        "COMPANYNAME": "Company name",
+        "ADDRESS": "Company Address",
+        "POSTALCODE": "Postal code",
+        "CITY": "Company town",
+        "PHONE": "Company Phone",
+        "EMAIL": "Company mail",
+        "CVRNO": "Company CVR",
+        "REGISTEREDCARS": "Registered cars",
+        "PLACEHOLDERS": {
+            "COMPANYNAME": "CAR CENTER NY Aps",
+            "ADDRESS": "Randersvej 8",
+            "POSTALCODE": "4800",
+            "CITY": "Nykonbing F",
+            "PHONE": "88810933",
+            "EMAIL": "kent@car-center.dk",
+            "CVRNO": "32677835",
+            "REGISTEREDCARS": "20"
+        },
+        "BUTTONADD": "ADD",
+        "BUTTONUPDATE": "UPDATE"
+    },
+    "ADDEDITSERVICEPLAN": {
+        "TITLEADD": "Add Service",
+        "TITLENEWUPDATE": "Update a service",
+        "TITLEUPDATE": "",
+        "UPDATETEXT": "CAR CENTER NYKOBING Aps",
+        "CUSTOMER": "Customer",
+        "DATE": "Date",
+        "SERVICETYPE": {
+            "TITLE": "Service type",
+            "COMMON": "Common Service",
+            "GENRAL": "General Service"
+        },
+        "SERVICESTATUS": {
+            "TITLE": "Service status",
+            "UPCOMING": "Upcoming",
+            "ORDERED": "Ordered"
+        },
+        "KMCONDITION": "Km Condition",
+        "REPORT": {
+            "TITLE": "Report",
+            "UPLOADTXT": "Upload report(s)"
+        },
+        "COMMENTS": "Comments",
+        "SEARCH": {
+            "TITLE": "Search for the car you wish to add a service plan to",
+            "PLACEHOLDER": "Licence Plate or VIN Number",
+            "BUTTONTXT": "Find the car"
+        },
+        "DELETE": {
+            "TITLE": "Delete Service Plan",
+            "SUBTITLE": "Click OK to delete this",
+            "CANCEL": "Cancel",
+            "OK": "OK"
+        },
+        "BUTTONADD": "Add and exit",
+        "BUTTONUPDATE": "Update",
+        "ADDMORE": "Add More",
+        "UPDATEADD": "Update and add more"
+    },
+    "NOTIFICATION": {
+        "TITLE": "Notifications",
+        "TITLE_NOTIFICATION": "Notifications",
+        "NONEWNOTIFICATION": "Currently no info",
+        "ORDERED_SERVICE_NOTIFICATION_TILL_DATE_TXT": "The car owner has ordered a service visit for the ",
+        "ORDERED_SERVICE_NOTIFICATION_AFTER_DATE_TXT": "for car ",
+        "REMOVE_READ_NOTIFICATION": "Remove the read notifications"
+    },
+    "CUSTOMERS": {
+        "TITLE": "Customers",
+        "PLACEHOLDERS": {
+            "SEARCH": "Search"
+        }
+    },
+    "CARSHOW": {
+        "OWNER": "Car owner",
+        "BRAND": "Brand",
+        "MODEL": "Model",
+        "TYPE": "Type",
+        "OWNERTYPE": "Owner type",
+        "CHASISNO": "Chasis no.",
+        "REGNO": "Reg no.",
+        "FIRSTREGDATE": "First Reg. date",
+        "LASTREGDATE": "Last Reg.",
+        "LASTINSPECTION": "Last inspection",
+        "STATUS": "Status",
+        "COUNTRY": "Country",
+        "SERVICEBOOK": "Service book"
+    },
+    "WORKSHOP": {
+        "TITLE": "Workshop",
+        "ACTIVE": "Active workshop:",
+        "ADD": "Add workshop",
+        "ADDCOMPANY": "Add a company"
+    },
+    "FORGOTPASS": {
+        "TITLE": "Reset Password",
+        "EMAIL": "Email",
+        "PLACEHOLDER": {
+            "EMAIL": ""
+        },
+        "BUTTONUPDATE": "Update"
+    },
+    "VERSIONUPDATE": {
+        "TEXT": "An updated version is available in the {{ value }} with security fixes and improvements. Please, update the App"
+    },
+    "CARDETAILTAB": {
+        "TITLES": {
+            "OVERVIEW": "Car Info",
+            "HPI": "Debt",
+            "SURVAY": "Inspection",
+            "MORE": "More",
+            "TECHNICAL": "Specifications",
+            "CHARGES": "Taxes",
+            "INSURANCE": "Insurance",
+            "SERVICEBOOK": "Service Book",
+            "OPTIONS": "View Properties"
+        }
+    },
+    "OVERVIEWTAB": {
+        "TITLE": "Car Overview",
+        "BRAND": "Brand",
+        "MODEL": "Model",
+        "TYPE": "Type",
+        "OWNERTYPE": "Owner type",
+        "VERSION": "Release",
+        "FRAMENO": "VIN no.",
+        "REGNO": "Reg. no.",
+        "FIRSTREGDATE": "First registration date",
+        "STATUSUPDATE": "Status update",
+        "LASTREG": "Last re-registration",
+        "LATESTAPPROVEDVIEW": "Last inspection date",
+        "STATUS": "Registration status",
+        "COUNTRY": "Country"
+    },
+    "TECHNICALTAB": {
+        "TITLE": "Technical Information",
+        "TECHTOTALWEIGHT": "Technical Total Weight",
+        "TOTALWEIGHT": "Total Weight",
+        "WEIGHT": "Weight",
+        "FUEL": "Fuel",
+        "MOTORPOWER": "Engine Power",
+        "FUELECONOMY": "Fuel efficiency",
+        "ENGINESIZE": "Capacity",
+        "CYLINDERS": "Engine cylinder",
+        "DEADWEIGHT": "Permitted trailer load without brakes",
+        "DRIVINGFORCE": "Driving force",
+        "TRAILERWEGWITHOUTBREAK": "Permitted trailer load with brakes",
+        "SUSPENSIONWEGWITHBREAK": "Suspension weight with brakes"
+    },
+    "DEBTTAB": {
+        "TITLE": "Debt On the Car",
+        "AMOUNT": "Amount",
+        "DATENUMBER": "Date number",
+        "NODATA": "This is no debt in this car."
+    },
+    "INSURANCETAB": {
+        "TITLE": "Insurance",
+        "COMPANY": "Insurance company",
+        "CREATED": "Created",
+        "PROOFNO": "Certificate number",
+        "STATUS": "Status",
+        "TYPEAPPROVAL": "Type of approval"
+    },
+    "TAXTAB": {
+        "TITLE": "Tax",
+        "LICPLATE": "Number Plate",
+        "TYPE": "Type",
+        "STATEMENT": "Update",
+        "COVERINGFROM": "Valid from",
+        "COVERING": "Valid to",
+        "AMOUNT": "Amount"
+
+    },
+    "SERVICEBOOKTAB": {
+        "DATE": "Date",
+        "CARNAME": "Car",
+        "TYPE": "Type",
+        "KM": "Mileage",
+        "WORKSHOP": "Workshop",
+        "COMMENT": "Comment",
+        "REPORT": "Report",
+        "SHOWBTN": "Show",
+        "NOPHOTO": "No photo of the paper service book has been uploaded."
+    },
+    "SERVICEPLANTAB": {
+        "DATE": "Date",
+        "STATUS": "Status",
+        "TYPE": "Type",
+        "KM": "Mileage",
+        "COMMENT": "Comment",
+        "NODATA": "No information for the service plan."
+    },
+    "INSPECTIONTAB": {
+        "DATE": "Date",
+        "KINDVEHICALINS": "Kind of vehicle inspection",
+        "COMPANY": "Company",
+        "ERROR": "Error",
+        "ADDRESS": "Address",
+        "MILAGE": "Mileage",
+        "RESULT": "Result",
+        "TYPEOFINSPECTION": "Type of vehicle inspection"
+    },
+    "COUNTRYMODAL": {
+        "TITLE": "CHOOSE COUNTRY CODE"
+    },
+    "LANGUAGE": {
+        "EN": "English",
+        "DA": "Danish",
+        "DE": "German",
+        "NO": "Norwegian",
+        "SE": "Swedish"
+    },
+    "REPAIRPHOTO": {
+        "TITLE": "Reparation photos",
+        "ADDSERVICEBOOK": "Add a photo to the service book",
+        "ADDREPAIRATION": "Add reparation photos",
+        "ADD": "Add",
+        "CAR": "Car",
+        "SERVICETYPE": "Service type",
+        "DATE": "Date",
+        "DELETEON": "Will be deleted on",
+        "EDIT": "Edit",
+        "DELETEALL": "Delete All"
+    }
+
+}
