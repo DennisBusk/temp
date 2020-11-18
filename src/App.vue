@@ -1,11 +1,11 @@
 <template>
   <ion-app>
     <ion-split-pane contentId="main-content">
-    <ion-menu side="start" menu-id="first" contentId="menu-content">
-      <ion-content id="menu-content">
+    <ion-menu side="start" menu-id="first" contentId="main-content">
+      <ion-content>
         <ion-list>
-          <ion-list-header>Digital Servicebog</ion-list-header>
-          <ion-note :on="user">hi@ionicframework.com</ion-note>
+          <ion-list-header>{{ $t('HOME.TITLE') }}</ion-list-header>
+          <ion-note :on="user">{{user.email}}</ion-note>
 
           <ion-menu-toggle auto-hide="false">
             <ion-item lines="none" detail="false" class="hydrated">
@@ -28,6 +28,7 @@
               <ion-icon slot="start" :ios="search" :md="search"></ion-icon>
               <ion-label>search</ion-label>
             </ion-item>
+    <LanguageMenu />
           </ion-menu-toggle>
         </ion-list>
 
@@ -53,6 +54,7 @@
         IonRouterOutlet,
     IonSplitPane
     } from '@ionic/vue';
+  import LanguageMenu from "@/components/LanguageMenu.vue"
     import {defineComponent, ref} from 'vue';
     import {useRoute} from 'vue-router';
     import {
@@ -72,14 +74,17 @@
         warningSharp,
         search,
     } from 'ionicons/icons';
+    import {useI18n} from "vue-i18n";
+    import {defaultLocale, languages} from "@/locales";
+
 
 
     export default defineComponent({
         name: 'App',
         data(){
             return {
-                user: undefined
-            }
+                user: {}
+        }
         },
         components: {
             IonApp,
@@ -93,14 +98,21 @@
             IonMenuToggle,
             IonNote,
             IonRouterOutlet,
-            IonSplitPane
+            IonSplitPane,
+        LanguageMenu,
         },
         setup() {
 
             // const user = undefined;
 
-
+            const messages = Object.assign(languages);
             const route = useRoute();
+            const t = useI18n({
+                legacy: false, // you must specify 'legacy: false' option
+                locale: defaultLocale,
+                fallbackLocale: defaultLocale,
+                messages
+            })
 
             return {
                 archiveOutline,
@@ -117,8 +129,13 @@
                 trashSharp,
                 warningOutline,
                 warningSharp,
-                search
-            }
+                search,
+                t
+            };
+
+        },
+        methods:{
+
         }
     });
 </script>

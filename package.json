@@ -13,13 +13,14 @@
   "dependencies": {
     "@capacitor/android": "^2.4.2",
     "@capacitor/core": "2.4.2",
-    "@capacitor/ios": "^2.4.2",
     "@ionic/pwa-elements": "^3.0.1",
-    "@ionic/vue": "^5.4.0",
-    "@ionic/vue-router": "^5.4.0",
+    "@ionic/vue": "^5.4.4",
+    "@ionic/vue-router": "^5.5.0-dev.202011091500.039d75c",
+    "cordova-plugin-file": "^6.0.2",
     "core-js": "^3.6.5",
     "register-service-worker": "^1.7.1",
     "vue": "^3.0.0-0",
+    "vue-i18n": "^9.0.0-beta.6",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
@@ -41,7 +42,6 @@
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^7.0.0-0",
     "typescript": "~3.9.3",
-    "vue-cli-plugin-i18n": "~1.0.1",
     "vue-jest": "^5.0.0-0"
   }
 }

@@ -1,13 +1,13 @@
 ﻿{
     "HOME": {
-        "TITLE": "DIGITAL SERVICEBOK",
+        "TITLE": "DIGITAL servicebok",
         "SIGNIN": "Logga in",
         "SIGNUP": "Skapa konto",
         "LOOKUP": "Sök registreringsskylt eller chassinummer.",
-        "FORGOTPASSWORD": "Glömt lösenord?",
+        "FORGOTPASSWORD": "Glömt ditt lösenord?",
         "OR": "Eller",
         "CREATEACCOUNT": "Har du inget konto?",
-        "REG": " Registrera",
+        "REG": "registrera",
         "AGREE": "jag håller",
         "TERMS": "Villkor",
         "SEARCH": {
@@ -69,7 +69,7 @@
         "UNLESS": "Om du inte berätta något annat",
         "BUTTONS": {
             "OFCOURSE": "Det är klart jag har en bil!",
-            "ADDCAR": "Lägg till en bil"
+            "ADDCAR": "Lägg till din bil"
         },
         "POPOVER": {
             "PROFILE": "Min profil",
@@ -89,7 +89,7 @@
         "LATESTINSP": "Senaste inspektion",
         "FINDWORKSHOP": "Hitta din bil verkstad binder",
         "PLACEHOLDERS": {
-            "LICENCEPLATE": "registreringsskylt eller Chassinummer",
+            "LICENCEPLATE": "Registreringsskylt eller Chassinummer",
             "COMPANY": "Business, postnummer eller stad"
         },
         "BUTTONS": {
@@ -115,9 +115,9 @@
         "UPLOADPHOTO": "Ladda upp en bild av bilen",
         "WORKSHOP": "verkstad",
         "POPOVER": {
-            "SERVICEPLAN": "service plan",
-            "SERVICEBOOK": "servicebok",
-            "TRANSFER": "Transfer servicebok",
+            "SERVICEPLAN": "Serviceplan",
+            "SERVICEBOOK": "Servicebok",
+            "TRANSFER": "Överlåt servicebok",
             "CHANGEWORKSHOP": "Byt workshop",
             "DELETE": "Ta bort bil"
         },
@@ -127,7 +127,7 @@
             "MODEL": "Model",
             "TYPE": "Typ",
             "OWNERTYPE": "ägare typ",
-            "CHASSIS": "Chassinummer",
+            "CHASSIS": "Chassinummer.",
             "REGNO": "Reg.nr.",
             "FIRSTREGNO": "Første reg. dato",
             "LASTREG": "Sista omregistrering",
@@ -258,7 +258,7 @@
         "SUBTITLE": "Överför servicebok för",
         "LBL_EMAIL": "Ange mottagare via e-post",
         "LBL_TELE": "Eller ange mottagarens telefonnummer",
-        "EMAIL": "e-post",
+        "EMAIL": "E-mejl",
         "TELE": "Telefon",
         "TRANSFER": "Kontrollera om överföring sker"
     },
@@ -453,20 +453,20 @@
     },
     "CARDETAILTAB": {
         "TITLES": {
-            "OVERVIEW": "Bill Info",
+            "OVERVIEW": "Bilinfo",
             "HPI": "Fel",
-            "SURVAY": "Undersökning",
+            "SURVAY": "Inspektionsrapport",
             "MORE": "Mer",
-            "TECHNICAL": "Teknisk information",
-            "CHARGES": "Kostnader",
+            "TECHNICAL": "Specifikationer",
+            "CHARGES": "Skatter",
             "INSURANCE": "Försäkring",
-            "SERVICEBOOK": "Servicebok",
-            "OPTIONS": "alternativ"
+            "SERVICEBOOK": "Boken",
+            "OPTIONS": "Tjänster"
         }
     },
     "OVERVIEWTAB": {
         "TITLE": "Bilöversikt",
-        "BRAND": "Varumärken",
+        "BRAND": "Varumärke",
         "MODEL": "Modell",
         "TYPE": "Typ",
         "OWNERTYPE": "Ägare typ",
@@ -474,7 +474,7 @@
         "FRAMENO": "Chassinummer",
         "REGNO": "Reg. nr.",
         "FIRSTREGDATE": "Datum",
-        "STATUSUPDATE": "Status Update",
+        "STATUSUPDATE": "Statusuppdatering",
         "LASTREG": "Senast omregistrering",
         "LATESTAPPROVEDVIEW": "Senaste inspektionsdatum",
         "STATUS": "Registreringsstatus",
@@ -484,13 +484,13 @@
         "TITLE": "Teknisk information",
         "TECHTOTALWEIGHT": "Total teknisk vikt",
         "TOTALWEIGHT": "Total vikt",
-        "WEIGHT": "Vekt",
+        "WEIGHT": "Vikt",
         "FUEL": "Bränsle",
         "MOTORPOWER": "Motorkraft",
-        "FUELECONOMY": "Bränsle Effektivitet",
+        "FUELECONOMY": "Bränsle effektivitet",
         "ENGINESIZE": "Kapacitet",
-        "CYLINDERS": "Motor Cylinder",
-        "DEADWEIGHT": "Släpvagnsvikt obromsad",
+        "CYLINDERS": "Motor cylinder",
+        "DEADWEIGHT": "Släpvagnsvikt utan bromsar",
         "DRIVINGFORCE": "Driving force",
         "TRAILERWEGWITHOUTBREAK": "Släpvagnsvikt med bromsar",
         "SUSPENSIONWEGWITHBREAK": "Suspension weight with brakes"
@@ -498,7 +498,7 @@
     "DEBTTAB": {
         "TITLE": "Skuld på bilen",
         "AMOUNT": "Belopp",
-        "DATENUMBER": "Datum nummer",
+        "DATENUMBER": "Datum och nummer",
         "NODATA": "Det finns inga skulder på denna bil"
     },
     "INSURANCETAB": {
