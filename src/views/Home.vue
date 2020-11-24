@@ -5,7 +5,6 @@
   </ion-header>
   <ion-content :fullscreen="true">
     <ion-tabs>
-      <!-- Use v-slot:bottom with Vue ^2.6.0 -->
         <ion-tab-bar slot="top">
           <ion-tab-button tab="schedule">
             <ion-icon name="calendar"></ion-icon>
